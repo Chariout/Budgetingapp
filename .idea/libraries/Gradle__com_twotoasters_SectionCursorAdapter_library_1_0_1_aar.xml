@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twotoasters.SectionCursorAdapter:library:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c6b468a152b0aa076e0de728308f7b99/transformed/jetified-library-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6b468a152b0aa076e0de728308f7b99/transformed/jetified-library-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6b468a152b0aa076e0de728308f7b99/transformed/jetified-library-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a2fb6e96d5bfb7c13da617675b40ef6e/transformed/jetified-library-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a2fb6e96d5bfb7c13da617675b40ef6e/transformed/jetified-library-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a2fb6e96d5bfb7c13da617675b40ef6e/transformed/jetified-library-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twotoasters.SectionCursorAdapter/library/1.0.1/b39fed1d60bc398c97e90a7319f7e4abe224b208/library-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twotoasters.SectionCursorAdapter/library/1.0.1/eb15ece3a93948c446c4c46ac9405fa3f2d50709/library-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
